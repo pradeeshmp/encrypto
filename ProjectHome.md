@@ -1,0 +1,1 @@
+An opensource application to encrypt text into image
